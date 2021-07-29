@@ -1,5 +1,5 @@
 # ResumeProject
-## This is the simple resume project wirtten in django framewok.
+## This is the simple resume project written in django framework:)
 
 ![alt text](https://github.com/PeeusD/resumeProject/blob/main/readme/p1.PNG?raw=true)
 ## Home page
